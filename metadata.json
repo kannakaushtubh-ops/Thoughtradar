@@ -1,0 +1,5 @@
+{
+  "name": "Thought Radar — Microblog",
+  "description": "A web app where users post short thoughts that appear as signals on a radar. The system calculates semantic similarity between thoughts to visualize their proximity and generates a bus-ticket-style printable receipt for each post.",
+  "requestFramePermissions": []
+}
